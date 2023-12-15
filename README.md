@@ -2,10 +2,14 @@
 ## Title
 ### Title
 
-here are normal test ---
+here are normal test 
+---
 **here are bold text**
+---
 *these are italic text*
+---
 > this is a block quote
+---
 `it is inline code`
 
 ```javascript
