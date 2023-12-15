@@ -3,6 +3,8 @@
 ### Title
 
 here are normal test
+*here are bold text*
+**these are italic text**
 
 ```javascript
 function User(user,password){
