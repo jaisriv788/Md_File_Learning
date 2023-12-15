@@ -3,14 +3,19 @@
 ### Title
 
 here are normal test 
----
+
+
 **here are bold text**
----
+
+
 *these are italic text*
----
+
+
 > this is a block quote
----
-`it is inline code`
+
+
+`console.log("hello world")`
+
 
 ```javascript
 function User(user,password){
@@ -18,5 +23,8 @@ function User(user,password){
   this.password = password;
 }
 ```
+
+---
+
 
 [Here it is link](https://google.com)
