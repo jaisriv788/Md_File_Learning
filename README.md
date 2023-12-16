@@ -30,7 +30,6 @@ function User(user,password){
 [Here it is link](https://google.com)
 
 # To Create Table
-| Header 1 | Header |
+| Header 1 | Header 2 is being checked for the length of the cell |
 | ---      | ---    |
 | Data1    | data1  |
-| ---      | ---    |
