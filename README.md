@@ -30,3 +30,5 @@ function User(user,password){
 [Here it is link](https://google.com)
 
 # To Create Table
+| Name | Age |
+--------------
