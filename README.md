@@ -31,4 +31,4 @@ function User(user,password){
 
 # To Create Table
 | Name | Age |
---------------
+---
