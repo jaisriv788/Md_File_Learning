@@ -30,5 +30,7 @@ function User(user,password){
 [Here it is link](https://google.com)
 
 # To Create Table
-| Name | Age |
----
+| Header 1 | Header |
+| ---      | ---    |
+| Data1    | data1  |
+| ---      | ---    |
